@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="20mm"
+    android:orientation="horizontal"
+
+
+    tools:context=".MainActivity"
+    tools:ignore="InOrMmUsage">
+
+
+    <TextView
+        android:id="@+id/textViewname"
+        android:layout_width="30mm"
+        android:layout_height="match_parent"
+        android:text="@string/textview"
+        android:textSize="24sp" />
+    <Button
+        android:id="@+id/playbutton"
+        android:layout_width="20mm"
+        android:layout_height="match_parent"
+        android:text="@string/play" />
+    <Button
+        android:id="@+id/deletebutton"
+        android:layout_width="20mm"
+        android:layout_height="match_parent"
+        android:text="@string/delete" />
+
+
+
+
+</LinearLayout>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OralPractise</string>
+    <string name="record">start record</string>
+    <string name="textview">TextView</string>
+    <string name="play">play</string>
+    <string name="delete">delete</string>
+</resources>
